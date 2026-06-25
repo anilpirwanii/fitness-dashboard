@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Custom Protein Shake",
+    "calories": 474,
+    "protein": "50.4g",
+    "carbs": "28.1g",
+    "fat": "18.8g",
+    "ingredients": [
+      "350ml Natrel 2% Milk",
+      "30g Revolution Nutrition Chocolate Hazelnut Whey",
+      "10g Dates",
+      "10g Costco Valencia PB",
+      "5g Almonds",
+      "5g Cashews"
+    ]
+  },
+  {
+    "name": "Chicken Mortadella Sandwich",
+    "calories": 407,
+    "protein": "25.3g",
+    "carbs": "34.9g",
+    "fat": "17.3g",
+    "weight": "151.0g",
+    "ingredients": [
+      "Chicken mortadella",
+      "Cracker Barrel cheese",
+      "Dempster's protein white bread",
+      "Hellmann's mayonnaise"
+    ]
+  },
+  {
+    "name": "Chicken Cubes",
+    "calories": 1489,
+    "protein": "252.6g",
+    "carbs": "28.2g",
+    "fat": "35.5g",
+    "ingredients": [
+      "975g Chicken Breast (database standard)",
+      "350ml Natrel Plus (2X Protein Milk)",
+      "25g Shan Tandoori Masala"
+    ]
+  },
+  {
+    "name": "Zabiha Chicken Kabab",
+    "calories": 724,
+    "protein": "81.5g",
+    "carbs": "12.5g",
+    "fat": "39.3g",
+    "ingredients": [
+      "454g ground chicken",
+      "25g Shan Chapli Kabab Seasoning"
+    ]
+  }
+]
