@@ -48,37 +48,41 @@
     "date": "Tuesday, June 23, 2026",
     "time": "12:00:00 PM PDT",
     "name": "Custom Protein Shake",
-    "calories": 0,
-    "protein": "0g",
-    "carbs": "0g",
-    "fat": "0g"
+    "calories": 474,
+    "protein": "50.4g",
+    "carbs": "28.1g",
+    "fat": "18.8g",
+    "category": "Breakfast"
   },
   {
     "date": "Tuesday, June 23, 2026",
     "time": "1:00:00 PM PDT",
     "name": "Chicken Mortadella Sandwich",
-    "calories": 0,
-    "protein": "0g",
-    "carbs": "0g",
-    "fat": "0g"
+    "calories": 407,
+    "protein": "25.3g",
+    "carbs": "34.9g",
+    "fat": "17.3g",
+    "category": "Breakfast"
   },
   {
     "date": "Tuesday, June 23, 2026",
     "time": "6:00:00 PM PDT",
     "name": "Pizza Hut Pizza",
-    "calories": 0,
-    "protein": "0g",
-    "carbs": "0g",
-    "fat": "0g"
+    "calories": 590,
+    "protein": "33.0g",
+    "carbs": "69.0g",
+    "fat": "21.0g",
+    "category": "Dinner"
   },
   {
     "date": "Tuesday, June 23, 2026",
     "time": "6:05:00 PM PDT",
     "name": "Cheddar Jalapeño Dipping Sauce",
-    "calories": 0,
-    "protein": "0g",
-    "carbs": "0g",
-    "fat": "0g"
+    "calories": 150,
+    "protein": "1.0g",
+    "carbs": "3.0g",
+    "fat": "15.0g",
+    "category": "Dinner"
   },
   {
     "date": "Tuesday, June 23, 2026",
@@ -87,7 +91,8 @@
     "calories": 458,
     "protein": "46.6g",
     "carbs": "23.9g",
-    "fat": "19.5g"
+    "fat": "19.5g",
+    "category": "Dinner"
   },
   {
     "date": "Wednesday, June 24, 2026",
@@ -117,6 +122,26 @@
     "protein": "30.0g",
     "carbs": "5.0g",
     "fat": "3.0g",
+    "category": "Dinner"
+  },
+  {
+    "date": "Wednesday, June 24, 2026",
+    "time": "8:00:00 PM PDT",
+    "name": "Cooked Chicken Cubes (100g)",
+    "calories": 206,
+    "protein": "34.9g",
+    "carbs": "3.9g",
+    "fat": "4.9g",
+    "category": "Dinner"
+  },
+  {
+    "date": "Wednesday, June 24, 2026",
+    "time": "8:00:00 PM PDT",
+    "name": "Cooked White Rice (150g)",
+    "calories": 195,
+    "protein": "4.1g",
+    "carbs": "42.0g",
+    "fat": "0.4g",
     "category": "Dinner"
   }
 ]
