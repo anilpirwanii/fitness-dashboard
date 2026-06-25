@@ -45,6 +45,60 @@
     "fat": "3g"
   },
   {
+    "date": "Tuesday, June 23, 2026",
+    "time": "12:00:00 PM PDT",
+    "name": "Custom Protein Shake",
+    "calories": 0,
+    "protein": "0g",
+    "carbs": "0g",
+    "fat": "0g"
+  },
+  {
+    "date": "Tuesday, June 23, 2026",
+    "time": "1:00:00 PM PDT",
+    "name": "Chicken Mortadella Sandwich",
+    "calories": 0,
+    "protein": "0g",
+    "carbs": "0g",
+    "fat": "0g"
+  },
+  {
+    "date": "Tuesday, June 23, 2026",
+    "time": "6:00:00 PM PDT",
+    "name": "Pizza Hut Pizza",
+    "calories": 0,
+    "protein": "0g",
+    "carbs": "0g",
+    "fat": "0g"
+  },
+  {
+    "date": "Tuesday, June 23, 2026",
+    "time": "6:05:00 PM PDT",
+    "name": "Cheddar Jalapeño Dipping Sauce",
+    "calories": 0,
+    "protein": "0g",
+    "carbs": "0g",
+    "fat": "0g"
+  },
+  {
+    "date": "Tuesday, June 23, 2026",
+    "time": "8:00:00 PM PDT",
+    "name": "Zabiha Chicken Kabab (220g) & Tortilla",
+    "calories": 458,
+    "protein": "46.6g",
+    "carbs": "23.9g",
+    "fat": "19.5g"
+  },
+  {
+    "date": "Wednesday, June 24, 2026",
+    "time": "12:00:00 PM PDT",
+    "name": "La Pache Italian Pesto Pizza (3 slices)",
+    "calories": 503,
+    "protein": "23.6g",
+    "carbs": "48.0g",
+    "fat": "23.3g"
+  },
+  {
     "name": "Dinner: Chicken Wrap (150g Chicken Cubes, 1 Tortilla, Light Mayo)",
     "calories": 514,
     "protein": "57.4g",
