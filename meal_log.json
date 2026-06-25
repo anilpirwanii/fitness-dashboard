@@ -96,26 +96,27 @@
     "calories": 503,
     "protein": "23.6g",
     "carbs": "48.0g",
-    "fat": "23.3g"
+    "fat": "23.3g",
+    "category": "Lunch"
   },
   {
+    "date": "Wednesday, June 24, 2026",
+    "time": "8:00:00 PM PDT",
     "name": "Dinner: Chicken Wrap (150g Chicken Cubes, 1 Tortilla, Light Mayo)",
     "calories": 514,
     "protein": "57.4g",
     "carbs": "34.9g",
     "fat": "14.9g",
-    "category": "Dinner",
-    "date": "Wednesday, June 24, 2026",
-    "time": "8:00:00 PM PDT"
+    "category": "Dinner"
   },
   {
+    "date": "Wednesday, June 24, 2026",
+    "time": "8:00:00 PM PDT",
     "name": "Kirkland Protein Shake",
     "calories": 160,
-    "protein": "30g",
-    "carbs": "5g",
-    "fat": "3g",
-    "category": "Dinner",
-    "date": "Wednesday, June 24, 2026",
-    "time": "8:00:00 PM PDT"
+    "protein": "30.0g",
+    "carbs": "5.0g",
+    "fat": "3.0g",
+    "category": "Dinner"
   }
 ]
